@@ -1,0 +1,8 @@
+asgiref==3.4.1
+Django==4.0
+django-jazzmin==2.4.8
+django-ninja==0.16.1
+psycopg2==2.9.2
+pydantic==1.8.2
+sqlparse==0.4.2
+typing_extensions==4.0.1
